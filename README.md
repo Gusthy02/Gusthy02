@@ -1,9 +1,9 @@
 
 ## 🖐 Olá, mundo! Eu sou o Gustavo Thyerris 
 
-- Desenvolvimento de Sistemas 📚
+- Engenharia da Computação 📚
 - Apaixonado por tecnologia 📡
-- Estudando Java 💻
+- Estudando React 💻
 - Buscando evulução 🔌
 <br/>
 <div align="center" styles="display: flex>
