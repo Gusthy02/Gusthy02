@@ -4,7 +4,7 @@
 - Engenharia da Computação 📚
 - Apaixonado por tecnologia 📡
 - Estudando React 💻
-- Buscando evulução 🔌
+- Buscando evolução 🔌
 <br/>
 <div align="center" styles="display: flex>
   <a href="https://github.com/gusThyerris">
