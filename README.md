@@ -6,10 +6,6 @@
 - Estudando Data Analytics 💻
 - Buscando evolução 🔌
 <br/>
-<div align="center" styles="display: flex>
-  <a href="https://github.com/gusThyerris">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusthy02&layout=compact&theme=dark"/>
-</div>
 
 ## 💻 Tecnologias
 
