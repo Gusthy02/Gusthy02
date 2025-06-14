@@ -3,7 +3,7 @@
 
 - Engenharia da Computação 📚
 - Apaixonado por tecnologia 📡
-- Estudando React 💻
+- Estudando Data Analytics 💻
 - Buscando evolução 🔌
 <br/>
 <div align="center" styles="display: flex>
